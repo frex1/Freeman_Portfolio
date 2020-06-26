@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Home</title>
-    <link>https://frex1.github.io/Freeman_Portfolio/about/</link>
+    <link>https://freemangoja.com/about/</link>
     <description>Recent content in About on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://frex1.github.io/Freeman_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://freemangoja.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freeman Goja Portfolio on Home</title>
-    <link>https://freemangoja.com/</link>
+    <link>https://frex1.github.io/Freeman_Portfolio/</link>
     <description>Recent content in Freeman Goja Portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jun 2020 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://freemangoja.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frex1.github.io/Freeman_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project I: The Best Fit Regression Model For Housing Price Prediction</title>
-      <link>https://freemangoja.com/post/project-1/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-1/</link>
       <pubDate>Mon, 22 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-1/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-1/</guid>
       <description>When looking for the best fit model for prediction, finding the right algorithm has always proven to be the difference between the success and failure of the entire project. Using the Airbnb housing dataset, I created a model that uses selected features of a listing to predict its price. Three different regression models; linear regression, random forest and XGBoost were built, optimized using GridSearchCV, and compared to find the best fit model.</description>
     </item>
     
     <item>
       <title>Project II: Deployment Of A Machine Learning Model Using Heroku</title>
-      <link>https://freemangoja.com/post/project-2/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-2/</link>
       <pubDate>Thu, 21 May 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-2/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-2/</guid>
       <description>In this project Pycaret package was used to train and validate models and develop a machine learning pipeline for deployment. A basic HTML front-end was built with an input form for independent variables (age, sex, bmi, children, smoker, region). The back-end of the web application was built using Flask Framework and the web app was deployed on Heroku. The deployed app becomes publicy accesible via its url.
   Link to GitHub repository</description>
     </item>
     
     <item>
       <title>Project III: Multivariate Time Series Forecasting</title>
-      <link>https://freemangoja.com/post/project-3/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-3/</link>
       <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-3/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-3/</guid>
       <description>In this project, an LSTM model for multivariate time series forecasting was developed using Keras deep learning library. LSTM stands for a type of recurrent neural networks known as Long Short-Term Memory and they can seamlessly model time series problems with multiple inputs where traditional linear models find it hard to adapt. The project was divided into three tasks:
  Transforming raw data into a multivariate time series problem and preparing data for modeling.</description>
     </item>
     
     <item>
       <title>Project IV: Deep Learning Classification Model For Skin Lesion Detection</title>
-      <link>https://freemangoja.com/post/project-4/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-4/</link>
       <pubDate>Tue, 11 Feb 2020 11:13:32 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-4/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-4/</guid>
       <description>Lesions are pigmented skin growths, some of which are cancerous. Melanoma is one of the deadliest skin cancers. Early diagnosis plays an essential role in effective treatment planning and reducing the mortality rate of skin cancer. Here, a compact deep learning-based classification model with a separable convolutional neural network for skin lesion detection was proposed. The proposed architecture is aimed to combine task-specific data pre-processing methods such as noise reduction, artifact removal, and low contrast adjustment.</description>
     </item>
     
     <item>
       <title>Project V: RFM Analysis Using Python</title>
-      <link>https://freemangoja.com/post/project-5/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-5/</link>
       <pubDate>Fri, 13 Dec 2019 11:15:58 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-5/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-5/</guid>
       <description>RFM is an acronym that stands for Recency, Frequency, Monetary. It used to be a popular approach in database marketing and direct marketing for analyzing customer value. However, recently, it has become immensely popular in other industries such as retail and professional services. The three pillars or dimensions of RFM are:
  Recency – How recently did the customer purchase? Frequency – How often do they purchase? Monetary Value – How much do they spend?</description>
     </item>
     
     <item>
       <title>Project VI: Natural Language Processing: Sentiments Analysis Of Tweets</title>
-      <link>https://freemangoja.com/post/project-6/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/post/project-6/</link>
       <pubDate>Fri, 22 Nov 2019 11:25:05 -0400</pubDate>
       
-      <guid>https://freemangoja.com/post/project-6/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/post/project-6/</guid>
       <description>Twitter data is perfect for sentiment analysis. With so much flexibility, you can easily restrict your selection of tweets to a particular date range, language, region, number of tweets and then some. In this case, we shall be gauging twitter sentiments towards Trump and visualizing the results in different ways. These tweets were extracted on November 22, 2019 while the congress-led impeachment hearing was going on.
   Link to GitHub repository</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://freemangoja.com/contact/</link>
+      <link>https://frex1.github.io/Freeman_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://freemangoja.com/contact/</guid>
+      <guid>https://frex1.github.io/Freeman_Portfolio/contact/</guid>
       <description>If you would like to get in touch to hire me or discuss how we can work together, email me on:
 info@freemangoja.com
 Follow me on social media and other platforms
